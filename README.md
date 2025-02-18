@@ -38,15 +38,15 @@ Initial release. Please update to start using custom post types for Recipe Roast
 
 == Frequently Asked Questions ==
 
-= Can I customize the layout of Recipe Roasts and Meal Prep Videos? =
+Can I customize the layout of Recipe Roasts and Meal Prep Videos?
 
 Yes, you can customize the output by overriding the shortcodes in your theme or by creating custom templates.
 
-= How can I add videos to Recipe Roasts? =
+ How can I add videos to Recipe Roasts? 
 
 Simply enter the video URL in the custom meta box under Recipe Roast Details.
 
-= How do I embed videos in Meal Prep Videos? =
+How do I embed videos in Meal Prep Videos? 
 
 You can paste the embed video code in the "Embed Video Code" field in the custom meta box under Meal Prep Video Details.
 
